@@ -36,7 +36,7 @@ However, the unique characteristics of AMR systems make them incompatible with e
 
 To this end, our objective is to create a visual coding IDE that can make the development of autonomous red-teaming systems easier and more understandable.
 
-<div class="figure"><img src="/assets/img/posts/cyblocks-1/02.png" alt="The block set grouped into four families - Control, Data, Agents and Actions - beside an example attacker system showing control flow and data flow between blocks." width="1296" height="927"></div>
+<div class="figure"><img src="/assets/img/posts/cyblocks-1/02.png" alt="The block set grouped into four families - Control, Data, Agents and Actions - beside an example attacker system showing control flow and data flow between blocks." width="1296" height="926"></div>
 
 ### Solution
 
